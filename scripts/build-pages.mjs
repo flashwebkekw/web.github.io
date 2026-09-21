@@ -11,14 +11,24 @@ if (!existsSync(docsDir)) {
   mkdirSync(docsDir, { recursive: true });
 }
 
-// Copy static site files to docs
+// Copy static site files to docs and root
 cpSync(srcDir, docsDir, { recursive: true });
+for (const file of ["index.html", "styles.css", "app.js", "favicon.svg", "mascot.png", "og.jpg", ".nojekyll"]) {
+  if (existsSync(join(srcDir, file))) {
+    cpSync(join(srcDir, file), join(root, file));
+  }
+}
+cpSync(join(srcDir, "episodes"), join(root, "episodes"), { recursive: true });
+if (existsSync(join(root, "CNAME"))) {
+  cpSync(join(root, "CNAME"), join(docsDir, "CNAME"));
+}
 
-// Create .nojekyll in both docs and site
+// Create .nojekyll
 writeFileSync(join(docsDir, ".nojekyll"), "");
 writeFileSync(join(srcDir, ".nojekyll"), "");
+writeFileSync(join(root, ".nojekyll"), "");
 
-console.log("✓ GitHub Pages files ready in /docs");
+console.log("✓ GitHub Pages files ready in / and /docs");
 console.log("✓ .nojekyll created");
 
 // Package into github-pages-site.zip
