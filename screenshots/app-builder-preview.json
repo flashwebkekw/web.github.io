@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "$WAGE — Clock Out. Be Your Own CFO.",
+      "hasCanvas": false,
+      "bodyTextLen": 2434,
+      "bodyTextHash": "e9fe6910ab5c99c66afbd2c752c25958f6ed81c901cdaa9c61815399e230e34b",
+      "bodyTextPrefix": "$WAGE LORE MOVIE WHY $WAGE COMMUNITY BUY $WAGE ANTI-GRIND MANDAT",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "$WAGE — Clock Out. Be Your Own CFO.",
+      "hasCanvas": false,
+      "bodyTextLen": 2438,
+      "bodyTextHash": "55227fb6e262c79d5f5c461eae09ee7a5845e107ef11f05f956b8550107da127",
+      "bodyTextPrefix": "$WAGE BUY LORE MOVIE WHY $WAGE COMMUNITY BUY $WAGE ANTI-GRIND MA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

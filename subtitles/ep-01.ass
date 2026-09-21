@@ -1,0 +1,47 @@
+[Script Info]
+Title: $WAGE EP 01 — The Grind
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Liberation Sans,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0.4,0,1,2.4,0,2,56,56,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.70,Default,,0,0,0,,Day one.
+Dialogue: 0,0:00:00.76,0:00:01.90,Default,,0,0,0,,Waking up exhausted,
+Dialogue: 0,0:00:02.02,0:00:03.00,Default,,0,0,0,,then rushing to work.
+Dialogue: 0,0:00:03.12,0:00:04.20,Default,,0,0,0,,Finish this by tonight!
+Dialogue: 0,0:00:04.36,0:00:05.60,Default,,0,0,0,,Eating lunch all alone,
+Dialogue: 0,0:00:05.72,0:00:07.00,Default,,0,0,0,,finally coming home,
+Dialogue: 0,0:00:07.18,0:00:08.40,Default,,0,0,0,,opening the laptop again,
+Dialogue: 0,0:00:08.50,0:00:10.10,Default,,0,0,0,,falling asleep at his desk.
+Dialogue: 0,0:00:10.32,0:00:10.90,Default,,0,0,0,,Day two.
+Dialogue: 0,0:00:11.00,0:00:12.20,Default,,0,0,0,,Same alarm,
+Dialogue: 0,0:00:12.50,0:00:13.50,Default,,0,0,0,,same commute,
+Dialogue: 0,0:00:13.76,0:00:14.70,Default,,0,0,0,,same cubicle.
+Dialogue: 0,0:00:15.02,0:00:16.70,Default,,0,0,0,,What is this stupid mistake?
+Dialogue: 0,0:00:17.16,0:00:18.55,Default,,0,0,0,,Sir, can I ask for a raise?
+Dialogue: 0,0:00:18.86,0:00:19.90,Default,,0,0,0,,Keep dreaming.
+Dialogue: 0,0:00:20.40,0:00:22.20,Default,,0,0,0,,Another day, another shift.
+Dialogue: 0,0:00:22.80,0:00:24.60,Default,,0,0,0,,You give it everything you've got,
+Dialogue: 0,0:00:24.80,0:00:26.50,Default,,0,0,0,,but the numbers never change.
+Dialogue: 0,0:00:27.20,0:00:28.20,Default,,0,0,0,,Just surviving,
+Dialogue: 0,0:00:28.48,0:00:29.70,Default,,0,0,0,,staring at the wall.
+Dialogue: 0,0:00:30.02,0:00:30.70,Default,,0,0,0,,Day three.
+Dialogue: 0,0:00:30.86,0:00:31.50,Default,,0,0,0,,Alarm.
+Dialogue: 0,0:00:31.70,0:00:32.14,Default,,0,0,0,,Traffic.
+Dialogue: 0,0:00:32.26,0:00:32.80,Default,,0,0,0,,Boss.
+Dialogue: 0,0:00:32.94,0:00:33.40,Default,,0,0,0,,Emails.
+Dialogue: 0,0:00:33.54,0:00:34.00,Default,,0,0,0,,Clock.
+Dialogue: 0,0:00:34.12,0:00:34.60,Default,,0,0,0,,Bills.
+Dialogue: 0,0:00:34.80,0:00:35.70,Default,,0,0,0,,More work.
+Dialogue: 0,0:00:35.98,0:00:36.90,Default,,0,0,0,,Salary credited,
+Dialogue: 0,0:00:37.00,0:00:38.20,Default,,0,0,0,,rent and bills deducted,
+Dialogue: 0,0:00:38.34,0:00:39.90,Default,,0,0,0,,just sits completely blank.
+Dialogue: 0,0:00:47.24,0:00:49.40,Default,,0,0,0,,Maybe there's another way.

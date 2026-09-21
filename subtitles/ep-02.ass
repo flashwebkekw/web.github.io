@@ -1,0 +1,44 @@
+[Script Info]
+Title: $WAGE EP 02 — The Bag
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Liberation Sans,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0.4,0,1,2.4,0,2,56,56,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.29,0:00:09.20,Default,,0,0,0,,Maybe I wasn't the only one\Nlooking for a way out.
+Dialogue: 0,0:00:10.39,0:00:13.40,Default,,0,0,0,,There was a whole world\Noutside that office.
+Dialogue: 0,0:00:19.13,0:00:20.80,Default,,0,0,0,,You keep waiting for your life to change?
+Dialogue: 0,0:00:23.11,0:00:24.00,Default,,0,0,0,,Then change it.
+Dialogue: 0,0:00:27.30,0:00:29.10,Default,,0,0,0,,Welcome to the $WAGE community.
+Dialogue: 0,0:00:33.03,0:00:34.80,Default,,0,0,0,,It wasn't just a coin.
+Dialogue: 0,0:00:35.15,0:00:36.40,Default,,0,0,0,,It was a movement.
+Dialogue: 0,0:00:37.20,0:00:41.20,Default,,0,0,0,,The grind changes\Nnight after night, week after week.
+Dialogue: 0,0:00:41.30,0:00:44.20,Default,,0,0,0,,His clothes improve.\NHis confidence grows.
+Dialogue: 0,0:00:44.30,0:00:46.80,Default,,0,0,0,,The community grows alongside him.
+Dialogue: 0,0:00:51.91,0:00:53.10,Default,,0,0,0,,And for the first time,
+Dialogue: 0,0:00:53.20,0:00:55.70,Default,,0,0,0,,the work was finally paying off.
+Dialogue: 0,0:00:56.57,0:00:58.20,Default,,0,0,0,,The transformation.
+Dialogue: 0,0:00:58.30,0:01:01.10,Default,,0,0,0,,Time jump. Massive luxury apartment
+Dialogue: 0,0:01:01.47,0:01:03.10,Default,,0,0,0,,overlooking a futuristic city.
+Dialogue: 0,0:01:03.20,0:01:04.90,Default,,0,0,0,,His old worn-out backpack.
+Dialogue: 0,0:01:05.00,0:01:06.80,Default,,0,0,0,,He looks at it. Small smile.
+Dialogue: 0,0:01:06.90,0:01:08.80,Default,,0,0,0,,Clocky driving a luxury car.
+Dialogue: 0,0:01:09.49,0:01:11.60,Default,,0,0,0,,Traveling. His community apartment.
+Dialogue: 0,0:01:11.70,0:01:13.50,Default,,0,0,0,,His old, obnoxious, flashy—
+Dialogue: 0,0:01:14.03,0:01:14.90,Default,,0,0,0,,Shocked.
+Dialogue: 0,0:01:14.95,0:01:16.95,Default,,0,0,0,,The point is he controls his time now.
+Dialogue: 0,0:01:17.05,0:01:20.20,Default,,0,0,0,,Clocky stands on his balcony\Noverlooking the city.
+Dialogue: 0,0:01:21.61,0:01:22.70,Default,,0,0,0,,Payday.
+Dialogue: 0,0:01:23.25,0:01:24.50,Default,,0,0,0,,He smiles.
+Dialogue: 0,0:01:27.14,0:01:32.00,Default,,0,0,0,,Clocky genuinely becoming successful\Nrather than just quitting his job.
+Dialogue: 0,0:01:38.48,0:01:41.10,Default,,0,0,0,,Let us escape from the rat race
+Dialogue: 0,0:01:41.20,0:01:43.50,Default,,0,0,0,,to find your financial freedom.
+Dialogue: 0,0:01:43.60,0:01:45.80,Default,,0,0,0,,Because payday is coming.
