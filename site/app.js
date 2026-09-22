@@ -68,11 +68,12 @@ nav.classList.toggle("scrolled", window.scrollY > 8);
 (function initHeadline() {
   const quotes = [
     `<span class="headline-line">Clock out.</span><span class="headline-line"><span class="yellow">$WAGE</span> is your <span class="green">CFO.</span></span>`,
-    `<span class="headline-line">No bosses.</span><span class="headline-line">No 2% annual <span class="green">raises.</span></span>`,
-    `<span class="headline-line">Punch out.</span><span class="headline-line"><span class="yellow">$WAGE</span> keeps the <span class="green">bag.</span></span>`,
-    `<span class="headline-line">Skip the 1:1.</span><span class="headline-line">The chart is your <span class="green">raise.</span></span>`,
-    `<span class="headline-line">You're the <span class="green">CFO.</span></span><span class="headline-line">The cubicle can <span class="yellow">wait.</span></span>`,
-    `<span class="headline-line">Clock in never.</span><span class="headline-line"><span class="yellow">$WAGE</span> pays <span class="green">louder.</span></span>`,
+    `<span class="headline-line">Fire the grind.</span><span class="headline-line">Keep the <span class="green">bag.</span></span>`,
+    `<span class="headline-line">Don't beg for Friday.</span><span class="headline-line">Buy the <span class="green">exit.</span></span>`,
+    `<span class="headline-line">Punch out forever.</span><span class="headline-line"><span class="green">Payday</span> is coming.</span>`,
+    `<span class="headline-line">No more peanuts.</span><span class="headline-line">Only <span class="yellow">$WAGE.</span></span>`,
+    `<span class="headline-line">Cubicle's a cage.</span><span class="headline-line"><span class="yellow">$WAGE</span> is <span class="green">freedom.</span></span>`,
+    `<span class="headline-line">Be the <span class="green">CFO.</span></span><span class="headline-line">Let them clock <span class="yellow">in.</span></span>`,
   ];
 
   const a = document.getElementById("headline-a");
